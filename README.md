@@ -1,6 +1,6 @@
 # TIPP2023 - Study of integrated and transverse momentum differential production rates for particles emitted in high energy collisions at the LHC
 
-This project proposes to determine integrated production rates for hadron species obtained in proton-proton (pp) and lead-lead (Pb–Pb) collisions at 5.02 TeV per nucleon pair using data collected by the ALICE experiment [1]{https://arxiv.org/abs/1910.07678} [2]{https://arxiv.org/abs/1910.14419}.
+This project proposes to determine integrated production rates for hadron species obtained in proton-proton (pp) and lead-lead (Pb–Pb) collisions at 5.02 TeV per nucleon pair using data collected by the ALICE experiment [1](https://arxiv.org/abs/1910.07678) [2](https://arxiv.org/abs/1910.14419).
 
 # Usage 
 
@@ -13,8 +13,8 @@ This project proposes to determine integrated production rates for hadron specie
 - **rootLogonV2.c**: ROOT preconfig file. 
 - **.rootrc**: Where to put the `rootLogonV2.c` path.
  
-- **HEPData-1569102768-v1-root.root**: ROOT tree where to find *protons* [data]{https://www.hepdata.net/record/sandbox/1569102768}.
-- **HEPData-ins1762368-v1-root.root**: ROOT tree where to find *phi* [data]{https://www.hepdata.net/record/ins1762368}.
+- **HEPData-1569102768-v1-root.root**: ROOT tree where to find *protons* [data](https://www.hepdata.net/record/sandbox/1569102768).
+- **HEPData-ins1762368-v1-root.root**: ROOT tree where to find *phi* [data](https://www.hepdata.net/record/ins1762368).
 
 - **/ResultExamples**: Examples of few graph computed thanks to these programs.
 
