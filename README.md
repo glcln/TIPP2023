@@ -14,8 +14,8 @@ This project proposes to determine integrated production rates for hadron specie
 - `ExtractFile.h`: ROOT macro to extract data in different centrality collisions, useful for `Contours.cpp`.
 
 
-- `rootLogonV2.c`: ROOT preconfig file. 
-- `.rootrc`: Where to put the `rootLogonV2.c` path.
+- `rootlogonV2.c`: ROOT preconfig file. 
+- `.rootrc`: Where to put the `rootlogonV2.c` path.
  
  
 - `HEPData-1569102768-v1-root.root`: ROOT tree where to find *protons* [data](https://www.hepdata.net/record/sandbox/1569102768).
