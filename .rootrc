@@ -1,0 +1,18 @@
+#// This is the file .rootrc
+#// The description of possible variables in .rootrc is given in TEnv.
+#// Voir l'envt actuel dans ROOT :  gEnv->Print()
+
+
+# Path used by dynamic loader to find shared libraries
+Unix.*.Root.DynamicPath:    .:$(ROOTSYS)/lib
+Unix.*.Root.MacroPath:      .:$(ROOTSYS)/macros
+
+# Path where to look for TrueType fonts:
+Unix.*.Root.UseTTFonts:     true
+*.*.Root.TTFontPath:        $(ROOTSYS)/fonts
+
+#TBrowserSettings
+Browser.IconStyle:           list
+
+Rint.Logon:              //PATH TO rootlogonV2
+
