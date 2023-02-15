@@ -7,7 +7,7 @@ This project proposes to determine integrated production rates for hadron specie
 # Usage 
 
 - **Yield.cpp**: Display the data wanted, compute the different fits associated, the bin integral and the yield extrapolation depending on the scenario set.
-- **Contours.cpp**: Compute and display the contour graph of the temperature T in function of the <img src="https://latex.codecogs.com/gif.latex?\langle \beta_T \rangle" /> parameter of the hydrodynamic blastwave model for protons in PbPb collisions for all centralities.
+- **Contours.cpp**: Compute and display the contour graph of the temperature T in function of the beta mean (transverse speed to c ratio) parameter of the hydrodynamic blastwave model for protons in PbPb collisions for all centralities.
 
 
 - **Functions.h**: Mathematical expression of the different functions used to fit the data of the project.
