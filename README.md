@@ -2,6 +2,8 @@
 
 This project proposes to determine integrated production rates for hadron species obtained in proton-proton (pp) and lead-lead (Pb–Pb) collisions at 5.02 TeV per nucleon pair using data collected by the ALICE experiment [[1]](https://arxiv.org/abs/1910.07678) [[2]](https://arxiv.org/abs/1910.14419).
 
+Article written : `Article_COULON_DEDIEU.pdf`
+
 
 
 # Usage 
